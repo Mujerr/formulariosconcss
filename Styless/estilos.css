@@ -30,7 +30,7 @@ input:focus {
  }
 
  
-input,label:hover{
+input,label:focus{
     color: palevioletred;
     padding-top: 5px;
     padding-right: 10px;
